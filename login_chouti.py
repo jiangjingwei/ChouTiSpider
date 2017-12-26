@@ -7,8 +7,8 @@ response = requests.get('http://dig.chouti.com/')
 cookies = response.cookies.get_dict()
 
 login_data = {
-    'phone': '8617521005057',
-    'password': 'iamaher0.',
+    'phone': '86***********',
+    'password': '******',
     'oneMonth': '1',
 }
 
